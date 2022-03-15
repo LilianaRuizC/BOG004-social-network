@@ -10,9 +10,9 @@ export const changeTmp = (hash) => {
         case '#':
         case '#/':
             { return sectionMain.appendChild(components.home()); }
-        case '#/catalogo':
-        case '#/accesorios':
-        case '#/lugares':
+        case '#/login':
+        case '#/register':
+        case '#/accessories':
             { return sectionMain.appendChild(components[id]()); }
         default:
             return sectionMain.appendChild(components.different())
