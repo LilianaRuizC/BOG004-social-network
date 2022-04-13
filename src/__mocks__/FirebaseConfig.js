@@ -13,4 +13,3 @@ export const createUserWithEmailAndPassword = jest.fn(
 // export const signInWithPopup = () => Promise.resolve({});
 // export const signOut = () => Promise.resolve({});
 // export const onAuthStateChanged = () => Promise.resolve({});
- 

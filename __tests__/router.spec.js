@@ -13,23 +13,4 @@ describe('changeTmp', () => {
     changeTmp('#', components);
     expect(document.getElementById('container').textContent.trim()).toEqual('Esto es una vista de prueba');
   });
-
-
-//   it('register', () => {
-//     //paso 1
-//     newLogin('ssinuc@test.com', '1234') //-->hace un redirect
-//     //confirmar ls efectos de esta funcion
-//     .then(() => {
-//       expect(windowd.location).toBe('#/')
-//     })
-
-//     //**************** */
-//     showLogin()
-//     document.querySelector('#email').vlalue='ssinuco@test.com'
-//     document.querySelector('#password').vlalue='1234''
-//     document.querySelector('#button).click()
-//     //confirmar
-//     expect()
-
-//   })
-// });
+});

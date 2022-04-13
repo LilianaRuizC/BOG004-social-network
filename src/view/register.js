@@ -20,11 +20,9 @@ export default () => {
           </div>
         </div>
       </div>
-
       <div class="logo-formulario">
         <img src="img/logo-codering-letrasnegras.png" alt="Logo Codering">
       </div>
-
       <form id="formularioRegister">
         <label>Correo electrónico</label>
         <input type="text" id="correoRegister" class="formulario"></input>
@@ -32,7 +30,6 @@ export default () => {
         <input type="password" id="contraseñaRegister" class="formulario"></input>
         <button type="submit" class="botones">REGISTRARME</button>
       </form>
-
      
     </div>
     `;

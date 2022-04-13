@@ -101,7 +101,6 @@ export default () => {
       <a href='https://docs.python.org/es/3/' target="_blank"><img src='img/python.png' alt='Python' title='Python'></a>
       <a href='https://es.reactjs.org/docs/getting-started.html' target="_blank"><img src='img/atom.png' alt='React' title='React'></a>
       <a href='https://developer.mozilla.org/es/docs/Web/JavaScript' target="_blank" ><img src='img/js.png' alt='JavaScript' title='JavaScript'></a>
-
     </div>
     <div class="postGeneral">
       <div class="divForm" id="divForm">
